@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN 4K" tvg-logo="https://2.bp.blogspot.com/-nBtQ5UkiBI4/XmQcIAhLVYI/AAAAAAAACSk/posGzR9eqD4zllrPY3vGIk6wsFYBJtlRQCK4BGAYYCw/s400/AXN.png" group-title="4K",AXN 4K
+http://pbrz.xyz:80/23115509/27969706/1165
 #EXTINF:-1 tvg-id="" tvg-name="A&E (H265)" tvg-logo="https://i.imgur.com/PSBV0fN.png" group-title=" H.265",A&E (H265)
 http://pbrz.xyz:80/23115509/27969706/1136
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="https://i.imgur.com/PSBV0fN.png" group-title="FILMES E SERIES",A&E FHD
