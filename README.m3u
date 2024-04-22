@@ -1,1853 +1,243 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/ae.png" group-title="FILMES & SÉRIES", A&E FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68834.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/ae.png" group-title="FILMES & SÉRIES", A&E FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144373.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/ae.png" group-title="FILMES & SÉRIES", A&E HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68835.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/ae.png" group-title="FILMES & SÉRIES", A&E HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144374.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/ae.png" group-title="FILMES & SÉRIES", A&E SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68836.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/ae.png" group-title="FILMES & SÉRIES", A&E²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144372.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/allsports.png" group-title="ESPORTES", ALL SPORTS HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144376.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="FILMES & SÉRIES", AMC FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144378.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="FILMES & SÉRIES", AMC HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/81158.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="FILMES & SÉRIES", AMC HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144379.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="FILMES & SÉRIES", AMC²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144377.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS", ANIMAL PLANET FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68788.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS", ANIMAL PLANET FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144381.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS", ANIMAL PLANET HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68789.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS", ANIMAL PLANET HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144382.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS", ANIMAL PLANET SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68790.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="DOCUMENTARIOS", ANIMAL PLANET²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144380.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/arte1.png" group-title="ENTRETENIMENTO", ARTE 1 FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69147.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/arte1.png" group-title="ENTRETENIMENTO", ARTE 1 HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69148.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/arte1.png" group-title="ENTRETENIMENTO", ARTE 1 HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144383.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/arte1.png" group-title="ENTRETENIMENTO", ARTE 1 SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69149.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/axn.png" group-title="FILMES & SÉRIES", AXN FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68838.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/axn.png" group-title="FILMES & SÉRIES", AXN FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144385.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/axn.png" group-title="FILMES & SÉRIES", AXN HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68839.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/axn.png" group-title="FILMES & SÉRIES", AXN HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144386.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/axn.png" group-title="FILMES & SÉRIES", AXN SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68840.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/axn.png" group-title="FILMES & SÉRIES", AXN²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144384.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/babytv.png" group-title="INFANTIS", BABY TV FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69030.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/babytv.png" group-title="INFANTIS", BABY TV HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69031.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/babytv.png" group-title="INFANTIS", BABY TV HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144387.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/babytv.png" group-title="INFANTIS", BABY TV SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69032.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/band.png" group-title="ABERTOS", BAND FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68728.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/band.png" group-title="ABERTOS", BAND HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68729.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/band.png" group-title="ABERTOS", BAND SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68733.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/band.png" group-title="ABERTOS", BAND²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144388.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/bandnews.png" group-title="NOTÍCIAS", BAND NEWS FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69070.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/bandnews.png" group-title="NOTÍCIAS", BAND NEWS HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69071.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/bandnews.png" group-title="NOTÍCIAS", BAND NEWS HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144390.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/bandnews.png" group-title="NOTÍCIAS", BAND NEWS SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69072.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/bandnews.png" group-title="NOTÍCIAS", BAND NEWS²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144389.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/bandsports.png" group-title="ESPORTES", BAND SPORTS FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69108.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/band.png" group-title="ABERTOS", BAND SPORTS FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144724.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/bandsports.png" group-title="ABERTOS", BAND SPORTS HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69109.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/bandsports.png" group-title="ESPORTES", BAND SPORTS HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144725.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/bandsports.png" group-title="ESPORTES", BAND SPORTS SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69110.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/bandsports.png" group-title="ESPORTES", BAND SPORTS²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144723.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/bbcworldnews.png" group-title="NOTÍCIAS", BBC WORLD NEWS²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144398.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/nsports1.png" group-title="ESPORTES", NSPORT 1
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/115996.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/bis.png" group-title="ENTRETENIMENTO", BIS FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69150.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/bis.png" group-title="ENTRETENIMENTO", BIS FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144400.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/bis.png" group-title="ENTRETENIMENTO", BIS HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69151.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/bis.png" group-title="ENTRETENIMENTO", BIS HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144736.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/bis.png" group-title="ENTRETENIMENTO", BIS SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69152.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/bis.png" group-title="ENTRETENIMENTO", BIS²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144399.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/bloomberg.png" group-title="NOTÍCIAS", BLOOMBERG HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144737.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/canalbrasil.png" group-title="ENTRETENIMENTO", CANAL BRASIL FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69154.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/canalbrasil.png" group-title="ENTRETENIMENTO", CANAL BRASIL HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69155.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/canalbrasil.png" group-title="ENTRETENIMENTO", CANAL BRASIL HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144425.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/canalbrasil.png" group-title="ENTRETENIMENTO", CANAL BRASIL SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69156.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/canaldoboi.png" group-title="ABERTOS", CANAL DO BOI HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144426.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/canalrural.png" group-title="ABERTOS", CANAL RURAL HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144427.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cartoonnetwork.png" group-title="INFANTIS", CARTOON NETWORK FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69036.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cartoonnetwork.png" group-title="INFANTIS", CARTOON NETWORK FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144431.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cartoonnetwork.png" group-title="INFANTIS", CARTOON NETWORK HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69037.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cartoonnetwork.png" group-title="INFANTIS", CARTOON NETWORK HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144432.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cartoonnetwork.png" group-title="INFANTIS", CARTOON NETWORK SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69038.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cartoonnetwork.png" group-title="INFANTIS", CARTOON NETWORK²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144430.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cartoonito.png" group-title="INFANTIS", CARTOONITO FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69033.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cartoonito.png" group-title="INFANTIS", CARTOONITO FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144434.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cartoonito.png" group-title="INFANTIS", CARTOONITO HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69034.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cartoonito.png" group-title="INFANTIS", CARTOONITO HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144435.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cartoonito.png" group-title="INFANTIS", CARTOONITO SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69035.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cartoonito.png" group-title="INFANTIS", CARTOONITO²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144433.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cheftv.png" group-title="ENTRETENIMENTO", CHEF TV FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69157.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cheftv.png" group-title="ENTRETENIMENTO", CHEF TV HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69158.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cheftv.png" group-title="ENTRETENIMENTO", CHEF TV SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69159.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cinemax.png" group-title="FILMES & SÉRIES", CINEMAX FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68841.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cinemax.png" group-title="FILMES & SÉRIES", CINEMAX FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144450.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cinemax.png" group-title="FILMES & SÉRIES", CINEMAX HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68842.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cinemax.png" group-title="FILMES & SÉRIES", CINEMAX HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144451.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cinemax.png" group-title="FILMES & SÉRIES", CINEMAX SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68843.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cinemax.png" group-title="FILMES & SÉRIES", CINEMAX²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144449.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cnn.png" group-title="NOTÍCIAS", CNN BRASIL FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144453.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cnn.png" group-title="NOTÍCIAS", CNN BRASIL HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/75532.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cnn.png" group-title="NOTÍCIAS", CNN BRASIL HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144454.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cnn.png" group-title="NOTÍCIAS", CNN BRASIL²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144452.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/combate.png" group-title="ESPORTES", COMBATE FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69112.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/combate.png" group-title="ESPORTES", COMBATE FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144458.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/combate.png" group-title="ESPORTES", COMBATE HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69113.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/combate.png" group-title="ESPORTES", COMBATE HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144459.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/combate.png" group-title="ESPORTES", COMBATE SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69114.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/combate.png" group-title="ESPORTES", COMBATE²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144457.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/comedycentral.png" group-title="ENTRETENIMENTO", COMEDY CENTRAL FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69160.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/comedycentral.png" group-title="ENTRETENIMENTO", COMEDY CENTRAL FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144461.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/comedycentral.png" group-title="ENTRETENIMENTO", COMEDY CENTRAL HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69161.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/comedycentral.png" group-title="ENTRETENIMENTO", COMEDY CENTRAL HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144462.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/comedycentral.png" group-title="ENTRETENIMENTO", COMEDY CENTRAL SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69162.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/comedycentral.png" group-title="ENTRETENIMENTO", COMEDY CENTRAL²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144460.ts
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES", CONMEBOL TV 1 HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144463.ts
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES", CONMEBOL TV 2 HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144742.ts
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES", CONMEBOL TV 3 HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144743.ts
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES", CONMEBOL TV 4 HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144744.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/curta_.png" group-title="ENTRETENIMENTO", CURTA! FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69163.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/curta_.png" group-title="ENTRETENIMENTO", CURTA! HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69164.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/curta_.png" group-title="ENTRETENIMENTO", CURTA! HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144465.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/curta_.png" group-title="ENTRETENIMENTO", CURTA! SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69165.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/discovery.png" group-title="DOCUMENTARIOS", DISCOVERY CHANNEL FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68791.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/discovery.png" group-title="DOCUMENTARIOS", DISCOVERY CHANNEL FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144469.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/discovery.png" group-title="DOCUMENTARIOS", DISCOVERY CHANNEL HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68792.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/discovery.png" group-title="DOCUMENTARIOS", DISCOVERY CHANNEL HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144745.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/discovery.png" group-title="DOCUMENTARIOS", DISCOVERY CHANNEL SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68793.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/discovery.png" group-title="DOCUMENTARIOS", DISCOVERY CHANNEL²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144468.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hhdiscovery.png" group-title="DOCUMENTARIOS", DISCOVERY H&H FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144471.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hhdiscovery.png" group-title="DOCUMENTARIOS", DISCOVERY H&H HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144472.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hhdiscovery.png" group-title="DOCUMENTARIOS", DISCOVERY H&H²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144470.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hhdiscovery.png" group-title="DOCUMENTARIOS", DISCOVERY HOME & HEALTH FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68797.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hhdiscovery.png" group-title="DOCUMENTARIOS", DISCOVERY HOME & HEALTH HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68798.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hhdiscovery.png" group-title="DOCUMENTARIOS", DISCOVERY HOME & HEALTH SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68799.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/idinvestigationdiscovery.png" group-title="DOCUMENTARIOS", DISCOVERY ID FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68800.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/idinvestigationdiscovery.png" group-title="DOCUMENTARIOS", DISCOVERY ID HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68801.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/idinvestigationdiscovery.png" group-title="DOCUMENTARIOS", DISCOVERY ID HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144645.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/idinvestigationdiscovery.png" group-title="DOCUMENTARIOS", DISCOVERY ID SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68802.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/idinvestigationdiscovery.png" group-title="DOCUMENTARIOS", DISCOVERY ID ²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144644.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/discoverykids.png" group-title="INFANTIS", DISCOVERY KIDS FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69039.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/discoverykids.png" group-title="INFANTIS", DISCOVERY KIDS HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69040.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/theatherdiscoveryhd.png" group-title="DOCUMENTARIOS", DISCOVERY THEATHER FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68809.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/theatherdiscoveryhd.png" group-title="DOCUMENTARIOS", DISCOVERY THEATHER FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144476.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/theatherdiscoveryhd.png" group-title="DOCUMENTARIOS", DISCOVERY THEATHER HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68810.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/theatherdiscoveryhd.png" group-title="DOCUMENTARIOS", DISCOVERY THEATHER HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144477.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/theatherdiscoveryhd.png" group-title="DOCUMENTARIOS", DISCOVERY THEATHER SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68811.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/theatherdiscoveryhd.png" group-title="DOCUMENTARIOS", DISCOVERY THEATHER²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144475.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/discoveryturbo.png" group-title="DOCUMENTARIOS", DISCOVERY TURBO FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68812.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/discoveryturbo.png" group-title="DOCUMENTARIOS", DISCOVERY TURBO FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144479.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/discoveryturbo.png" group-title="DOCUMENTARIOS", DISCOVERY TURBO HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68813.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/discoveryturbo.png" group-title="DOCUMENTARIOS", DISCOVERY TURBO HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144480.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/discoveryturbo.png" group-title="DOCUMENTARIOS", DISCOVERY TURBO SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68814.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/discoveryturbo.png" group-title="DOCUMENTARIOS", DISCOVERY TURBO²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144478.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/worlddiscoveryhd.png" group-title="DOCUMENTARIOS", DISCOVERY WORLD FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68815.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/worlddiscoveryhd.png" group-title="DOCUMENTARIOS", DISCOVERY WORLD FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144748.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/worlddiscoveryhd.png" group-title="DOCUMENTARIOS", DISCOVERY WORLD HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68816.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/worlddiscoveryhd.png" group-title="DOCUMENTARIOS", DISCOVERY WORLD HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144481.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/worlddiscoveryhd.png" group-title="DOCUMENTARIOS", DISCOVERY WORLD SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68817.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/disneychanel.png" group-title="INFANTIS", DISNEY CHANNEL FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69042.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/disneychanel.png" group-title="INFANTIS", DISNEY CHANNEL HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69043.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/disneychanel.png" group-title="INFANTIS", DISNEY CHANNEL SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69044.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/disneychanel.png" group-title="INFANTIS", DISNEY HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144483.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/disneychanel.png" group-title="INFANTIS", DISNEY²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144482.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/DJINGANIMATION.png" group-title="VARIEDADES", DJING ANIMATION
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/75153.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/godtv.png" group-title="VARIEDADES", DOG TV FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144487.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/dwdeutschewellefhd.png" group-title="NOTÍCIAS", DW (DEUTSCH+)²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144488.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/eentertainement.png" group-title="ENTRETENIMENTO", E! FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69167.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/eentertainement.png" group-title="ENTRETENIMENTO", E! FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144490.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/eentertainement.png" group-title="ENTRETENIMENTO", E! HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69168.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/eentertainement.png" group-title="ENTRETENIMENTO", E! HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144491.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/eentertainement.png" group-title="ENTRETENIMENTO", E! SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69169.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/eentertainement.png" group-title="ENTRETENIMENTO", E!²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144489.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/star.png" group-title="ESPORTES", STAR + 1 HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/136510.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/star.png" group-title="ESPORTES", STAR+ 01 HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144802.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/star.png" group-title="ESPORTES", STAR + HD 2
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/136508.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/elevensports.png" group-title="ESPORTES", ELEVEN SPORTS 1
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/119196.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/elevensports.png" group-title="ESPORTES", ELEVEN SPORTS 10
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/119205.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/elevensports.png" group-title="ESPORTES", ELEVEN SPORTS 11
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/119206.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/elevensports.png" group-title="ESPORTES", ELEVEN SPORTS 12
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/119207.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/elevensports.png" group-title="ESPORTES", ELEVEN SPORTS 13
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/119208.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/elevensports.png" group-title="ESPORTES", ELEVEN SPORTS 14
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/119209.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/elevensports.png" group-title="ESPORTES", ELEVEN SPORTS 15
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/119210.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/elevensports.png" group-title="ESPORTES", ELEVEN SPORTS 18
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/119213.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/elevensports.png" group-title="ESPORTES", ELEVEN SPORTS 2
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/119197.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/elevensports.png" group-title="ESPORTES", ELEVEN SPORTS 3
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/119198.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/elevensports.png" group-title="ESPORTES", ELEVEN SPORTS 4
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/119199.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/elevensports.png" group-title="ESPORTES", ELEVEN SPORTS 5
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/119200.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/elevensports.png" group-title="ESPORTES", ELEVEN SPORTS 6
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/119201.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/elevensports.png" group-title="ESPORTES", ELEVEN SPORTS 7
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/119202.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/elevensports.png" group-title="ESPORTES", ELEVEN SPORTS 8
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/119203.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/elevensports.png" group-title="ESPORTES", ELEVEN SPORTS 9
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/119204.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/espnbrasil.png" group-title="ESPORTES", ESPN FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69118.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/espnbrasil.png" group-title="ESPORTES", ESPN HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69119.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/espnbrasil.png" group-title="ESPORTES", ESPN HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144501.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/espnbrasil.png" group-title="ESPORTES", ESPN SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69120.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/espnbrasil.png" group-title="ESPORTES", ESPN²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144492.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/espn2.png" group-title="ESPORTES", ESPN 2 FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69123.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/espn2.png" group-title="ESPORTES", ESPN 2 HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69124.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/espn2.png" group-title="ESPORTES", ESPN 2 HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144494.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/espn2.png" group-title="ESPORTES", ESPN 2 SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69125.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/espn2.png" group-title="ESPORTES", ESPN 2²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144493.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/espn3.png" group-title="ESPORTES", ESPN 3 FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69115.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/espn3.png" group-title="ESPORTES", ESPN 3 HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69116.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/espn3.png" group-title="ESPORTES", ESPN 3 HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144496.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/espn3.png" group-title="ESPORTES", ESPN 3 SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69117.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/espn3.png" group-title="ESPORTES", ESPN 3²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144495.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/espnextra.png" group-title="ESPORTES", ESPN EXTRA
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69122.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/espnextra.png" group-title="ESPORTES", ESPN EXTRA FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/70482.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/espnextra.png" group-title="ESPORTES", ESPN EXTRA HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69121.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/espnextra.png" group-title="ESPORTES", ESPN EXTRA HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144500.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/filmarts.png" group-title="FILMES & SÉRIES", FILM ARTS HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/84748.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/filmarts.png" group-title="FILMES & SÉRIES", FILM&ARTS HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144508.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/fishtv.png" group-title="ENTRETENIMENTO", FISH TV FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69170.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/fishtv.png" group-title="ENTRETENIMENTO", FISH TV HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69171.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/fishtv.png" group-title="ENTRETENIMENTO", FISH TV HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144510.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/fishtv.png" group-title="ENTRETENIMENTO", FISH TV SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69172.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/fishtv.png" group-title="ENTRETENIMENTO", FISH TV²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144509.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/foodnetwork.png" group-title="ENTRETENIMENTO", FOOD NETWORK FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69173.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/foodnetwork.png" group-title="ENTRETENIMENTO", FOOD NETWORK FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144512.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/foodnetwork.png" group-title="ENTRETENIMENTO", FOOD NETWORK HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69174.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/foodnetwork.png" group-title="ENTRETENIMENTO", FOOD NETWORK HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144513.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/foodnetwork.png" group-title="ENTRETENIMENTO", FOOD NETWORK SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69175.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/foodnetwork.png" group-title="ENTRETENIMENTO", FOOD NETWORK²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144511.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/foxchannel.png" group-title="FILMES & SÉRIES", FOX CHANNEL FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68844.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/foxnewschannel.png" group-title="NOTÍCIAS", FOX NEWS HD (USA)²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144514.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/foxnews.png" group-title="NOTÍCIAS", FOX NEWS SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69328.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/foxsports2.png" group-title="ESPORTES", FOX SPORTS 2 FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69127.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/foxsports2.png" group-title="ESPORTES", FOX SPORTS 2 FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144516.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/foxsports2.png" group-title="ESPORTES", FOX SPORTS 2 HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69128.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/foxsports2.png" group-title="ESPORTES", FOX SPORTS 2 HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144517.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/foxsports2.png" group-title="ESPORTES", FOX SPORTS 2 SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69129.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/foxsports2.png" group-title="ESPORTES", FOX SPORTS 2²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144515.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/fx.png" group-title="FILMES & SÉRIES", FX FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68854.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/fx.png" group-title="FILMES & SÉRIES", FX FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144520.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/fx.png" group-title="FILMES & SÉRIES", FX HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68855.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/fx.png" group-title="FILMES & SÉRIES", FX HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144521.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/fx.png" group-title="FILMES & SÉRIES", FX SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68856.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/fx.png" group-title="FILMES & SÉRIES", FX²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144519.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/globo.png" group-title="ABERTOS", GLOBO SP FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69364.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/globo.png" group-title="ABERTOS", GLOBO SP FHD H265³
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/105107.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/globo.png" group-title="ABERTOS", GLOBO SP FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144578.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/globo.png" group-title="ABERTOS", GLOBO SP HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69365.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/globo.png" group-title="ABERTOS", GLOBO SP HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144579.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/globo.png" group-title="ABERTOS", GLOBO SP HD³
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/105108.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/globo.png" group-title="ABERTOS", GLOBO SP SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69366.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/globo.png" group-title="ABERTOS", GLOBO SP²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144577.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/globo.png" group-title="ABERTOS", GLOBO EPTV SÃO CARLOS²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144534.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/globonews.png" group-title="NOTÍCIAS", GLOBO NEWS FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69080.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/globonews.png" group-title="NOTÍCIAS", GLOBO NEWS FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144548.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/globonews.png" group-title="NOTÍCIAS", GLOBO NEWS HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69081.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/globonews.png" group-title="NOTÍCIAS", GLOBO NEWS HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144549.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/globonews.png" group-title="NOTÍCIAS", GLOBO NEWS SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69082.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/globonews.png" group-title="NOTÍCIAS", GLOBO NEWS²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144750.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/gloob.png" group-title="INFANTIS", GLOOB FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69051.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/gloob.png" group-title="INFANTIS", GLOOB FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144606.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/gloob.png" group-title="INFANTIS", GLOOB HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69052.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbo.png" group-title="FILMES & SÉRIES", HBO FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69021.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbo.png" group-title="FILMES & SÉRIES", HBO FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144619.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbo.png" group-title="FILMES & SÉRIES", HBO HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69022.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbo.png" group-title="FILMES & SÉRIES", HBO HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144620.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbo.png" group-title="FILMES & SÉRIES", HBO SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69026.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbo.png" group-title="FILMES & SÉRIES", HBO²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144612.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbo2.png" group-title="FILMES & SÉRIES", HBO 2 FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69015.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbo2.png" group-title="FILMES & SÉRIES", HBO 2 FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144614.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbo2.png" group-title="FILMES & SÉRIES", HBO 2 HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69016.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbo2.png" group-title="FILMES & SÉRIES", HBO 2 HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144615.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbo2.png" group-title="FILMES & SÉRIES", HBO 2 SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69017.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbo2.png" group-title="FILMES & SÉRIES", HBO 2²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144613.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbofamily.png" group-title="FILMES & SÉRIES", HBO FAMILY FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69018.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbofamily.png" group-title="FILMES & SÉRIES", HBO FAMILY FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144617.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbofamily.png" group-title="FILMES & SÉRIES", HBO FAMILY HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69019.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbofamily.png" group-title="FILMES & SÉRIES", HBO FAMILY HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144618.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbofamily.png" group-title="FILMES & SÉRIES", HBO FAMILY SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69020.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbofamily.png" group-title="FILMES & SÉRIES", HBO FAMILY²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144616.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbomundi.png" group-title="FILMES & SÉRIES", HBO MUNDI FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68857.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbomundi.png" group-title="FILMES & SÉRIES", HBO MUNDI FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144624.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbomundi.png" group-title="FILMES & SÉRIES", HBO MUNDI HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68859.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbomundi.png" group-title="FILMES & SÉRIES", HBO MUNDI HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144625.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbomundi.png" group-title="FILMES & SÉRIES", HBO MUNDI SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68863.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbomundi.png" group-title="FILMES & SÉRIES", HBO MUNDI²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144623.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hboplus.png" group-title="FILMES & SÉRIES", HBO PLUS FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69023.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hboplus.png" group-title="FILMES & SÉRIES", HBO PLUS HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69024.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hboplus.png" group-title="FILMES & SÉRIES", HBO PLUS SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69025.ts
-
-#EXTINF:-1 tvg-logo="https://dns.ulttv.xyz/i/hbo.png" group-title="FILMES & SÉRIES", HBO+ FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144634.ts
-
-#EXTINF:-1 tvg-logo="https://dns.ulttv.xyz/i/hbo.png" group-title="FILMES & SÉRIES", HBO+ HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144635.ts
-
-#EXTINF:-1 tvg-logo="https://dns.ulttv.xyz/i/hbo.png" group-title="FILMES & SÉRIES", HBO+²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144633.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbopop.png" group-title="FILMES & SÉRIES", HBO POP
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68864.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbopop.png" group-title="FILMES & SÉRIES", HBO POP FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144758.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbopop.png" group-title="FILMES & SÉRIES", HBO POP HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68865.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbopop.png" group-title="FILMES & SÉRIES", HBO POP HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144759.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbopop.png" group-title="FILMES & SÉRIES", HBO POP SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68866.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbopop.png" group-title="FILMES & SÉRIES", HBO POP²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144626.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbosignature.png" group-title="FILMES & SÉRIES", HBO SIGNATURE FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69027.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbosignature.png" group-title="FILMES & SÉRIES", HBO SIGNATURE FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144628.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbosignature.png" group-title="FILMES & SÉRIES", HBO SIGNATURE HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69028.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbosignature.png" group-title="FILMES & SÉRIES", HBO SIGNATURE HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144629.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbosignature.png" group-title="FILMES & SÉRIES", HBO SIGNATURE SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69029.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hbosignature.png" group-title="FILMES & SÉRIES", HBO SIGNATURE²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144627.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hboxtreme.png" group-title="FILMES & SÉRIES", HBO XTREME FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68860.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hboxtreme.png" group-title="FILMES & SÉRIES", HBO XTREME FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144631.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hboxtreme.png" group-title="FILMES & SÉRIES", HBO XTREME HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68861.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hboxtreme.png" group-title="FILMES & SÉRIES", HBO XTREME HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144632.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hboxtreme.png" group-title="FILMES & SÉRIES", HBO XTREME SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68862.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hboxtreme.png" group-title="FILMES & SÉRIES", HBO XTREME²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144630.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hgtv.png" group-title="DOCUMENTARIOS", HGTV FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68794.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hgtv.png" group-title="DOCUMENTARIOS", HGTV FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144636.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hgtv.png" group-title="DOCUMENTARIOS", HGTV HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68795.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hgtv.png" group-title="DOCUMENTARIOS", HGTV HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144637.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/hgtv.png" group-title="DOCUMENTARIOS", HGTV SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68796.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/history2.png" group-title="DOCUMENTARIOS", HISTORY 2 FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144640.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/history2.png" group-title="DOCUMENTARIOS", HISTORY 2 HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68820.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/history2.png" group-title="DOCUMENTARIOS", HISTORY 2 HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144641.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/history2.png" group-title="DOCUMENTARIOS", HISTORY 2 SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68821.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/history2.png" group-title="DOCUMENTARIOS", HISTORY 2²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144639.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/history2.png" group-title="DOCUMENTARIOS", HISTORY FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68819.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/history.png" group-title="DOCUMENTARIOS", HISTORY FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68828.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/history.png" group-title="DOCUMENTARIOS", HISTORY FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144642.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/history.png" group-title="DOCUMENTARIOS", HISTORY HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68829.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/history.png" group-title="DOCUMENTARIOS", HISTORY HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144643.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/history.png" group-title="DOCUMENTARIOS", HISTORY SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68830.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/history.png" group-title="DOCUMENTARIOS", HISTORY²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144638.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/maisglobosat.png" group-title="VARIEDADES", I SAT FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69180.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/maisglobosat.png" group-title="VARIEDADES", I SAT HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69181.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/maisglobosat.png" group-title="VARIEDADES", I SAT SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69182.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/jpnews.png" group-title="NOTÍCIAS", JOVEM PAN NEWS FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68851.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/jpnews.png" group-title="NOTÍCIAS", JOVEM PAN NEWS FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144646.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/jpnews.png" group-title="NOTÍCIAS", JOVEM PAN NEWS HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68852.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/jpnews.png" group-title="NOTÍCIAS", JOVEM PAN NEWS HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144647.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/jpnews.png" group-title="NOTÍCIAS", JOVEM PAN NEWS SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69332.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/lifetime.png" group-title="ENTRETENIMENTO", LIFETIME FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69184.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/lifetime.png" group-title="ENTRETENIMENTO", LIFETIME HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69185.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/lifetime.png" group-title="ENTRETENIMENTO", LIFETIME HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144649.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/lifetime.png" group-title="ENTRETENIMENTO", LIFETIME SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69186.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/lifetime.png" group-title="ENTRETENIMENTO", LIFETIME²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144648.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/like.png" group-title="ENTRETENIMENTO", LIKE HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144650.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/lovenature.png" group-title="ENTRETENIMENTO", LOVE NATURE HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144651.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/maisglobosat.png" group-title="ENTRETENIMENTO", MAIS GLOBOSAT FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69187.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/maisglobosat.png" group-title="ENTRETENIMENTO", MAIS GLOBOSAT HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69188.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/maisglobosat.png" group-title="ENTRETENIMENTO", MAIS GLOBOSAT SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69189.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/megapix.png" group-title="FILMES & SÉRIES", MEGAPIX FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68867.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/megapix.png" group-title="FILMES & SÉRIES", MEGAPIX FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144653.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/megapix.png" group-title="FILMES & SÉRIES", MEGAPIX HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68868.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/megapix.png" group-title="FILMES & SÉRIES", MEGAPIX HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144654.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/megapix.png" group-title="FILMES & SÉRIES", MEGAPIX SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68869.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/megapix.png" group-title="FILMES & SÉRIES", MEGAPIX²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144652.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/modoviagem.png" group-title="VARIEDADES", MODO VIAGEM FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144656.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/modoviagem.png" group-title="VARIEDADES", MODO VIAGEM HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144657.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/modoviagem.png" group-title="VARIEDADES", MODO VIAGEM²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144655.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/mtv.png" group-title="ENTRETENIMENTO", MTV 00S HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144659.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/mtv.png" group-title="ENTRETENIMENTO", MTV FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69190.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/mtv.png" group-title="ENTRETENIMENTO", MTV HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69191.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/mtv.png" group-title="ENTRETENIMENTO", MTV HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144660.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/mtv.png" group-title="ENTRETENIMENTO", MTV SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69192.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/mtv.png" group-title="ENTRETENIMENTO", MTV²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144658.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/multishow.png" group-title="ENTRETENIMENTO", MULTISHOW FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69193.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/multishow.png" group-title="ENTRETENIMENTO", MULTISHOW FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144662.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/multishow.png" group-title="ENTRETENIMENTO", MULTISHOW HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69194.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/multishow.png" group-title="ENTRETENIMENTO", MULTISHOW HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144663.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/multishow.png" group-title="ENTRETENIMENTO", MULTISHOW SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69195.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/multishow.png" group-title="ENTRETENIMENTO", MULTISHOW²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144661.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/musicboxbrazil.png" group-title="VARIEDADES", MUSIC BOX BRASIL
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69198.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/musicboxbrazil.png" group-title="VARIEDADES", MUSIC BOX BRASIL FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69196.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/musicboxbrazil.png" group-title="VARIEDADES", MUSIC BOX BRASIL HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69197.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/musicboxbrazil.png" group-title="VARIEDADES", MUSIC BOX BRAZIL HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144664.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/topmusic.png" group-title="VARIEDADES", MUSIC TOP
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/75129.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", MX: TELENOVELA 1²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144665.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tinovelasunivision.png" group-title="VARIEDADES", MX: UNIVISION TELENOVELAS²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144666.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/nationalgeographic.png" group-title="DOCUMENTARIOS", NATGEO FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68822.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/nationalgeographic.png" group-title="DOCUMENTARIOS", NATGEO FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144672.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/nationalgeographic.png" group-title="DOCUMENTARIOS", NATGEO HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68823.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/nationalgeographic.png" group-title="DOCUMENTARIOS", NATGEO HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144673.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/natgeokids.png" group-title="INFANTIS", NATGEO KIDS FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69057.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/natgeokids.png" group-title="INFANTIS", NATGEO KIDS HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69058.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/natgeokids.png" group-title="INFANTIS", NATGEO KIDS SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69059.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/nationalgeographic.png" group-title="DOCUMENTARIOS", NATGEO SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68824.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/mtv.png" group-title="ENTRETENIMENTO", MTV FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69190.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/mtv.png" group-title="ENTRETENIMENTO", MTV HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69191.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/mtv.png" group-title="ENTRETENIMENTO", MTV HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144660.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/mtv.png" group-title="ENTRETENIMENTO", MTV SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69192.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/nationalgeographic.png" group-title="DOCUMENTARIOS", NATGEO²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144671.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/nickjr.png" group-title="INFANTIS", NICK JR FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69062.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/nickjr.png" group-title="INFANTIS", NICK JR HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69063.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/nickjr.png" group-title="INFANTIS", NICK JR SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69064.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/nickjr.png" group-title="INFANTIS", NICK JR. HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144680.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/nickjr.png" group-title="INFANTIS", NICK JR.²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144679.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/nickelodeon.png" group-title="INFANTIS", NICKELODEON FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69060.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/nickelodeon.png" group-title="INFANTIS", NICKELODEON HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69061.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/nickelodeon.png" group-title="INFANTIS", NICKELODEON HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144682.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/nickelodeon.png" group-title="INFANTIS", NICKELODEON SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69065.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/nickelodeon.png" group-title="INFANTIS", NICKELODEON²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144681.ts
-
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/canaloff.png" group-title="ESPORTES", OFF FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69202.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/canaloff.png" group-title="ESPORTES", OFF HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69203.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/canaloff.png" group-title="ESPORTES", OFF HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144684.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/canaloff.png" group-title="ESPORTES", OFF SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69204.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/canaloff.png" group-title="ESPORTES", OFF²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144683.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/paramountchannel.png" group-title="FILMES & SÉRIES", PARAMOUNT CHANNEL FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69205.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/paramountchannel.png" group-title="FILMES & SÉRIES", PARAMOUNT CHANNEL HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69206.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/paramountchannel.png" group-title="FILMES & SÉRIES", PARAMOUNT HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144686.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/paramountchannel.png" group-title="FILMES & SÉRIES", PARAMOUNT SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69207.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/paramountchannel.png" group-title="FILMES & SÉRIES", PARAMOUNT²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144685.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/playtv.png" group-title="ENTRETENIMENTO", PLAY TV FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69208.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/playtv.png" group-title="ENTRETENIMENTO", PLAY TV HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69209.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/playtv.png" group-title="ENTRETENIMENTO", PLAY TV SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69210.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premierefutebolclubes.png" group-title="ESPORTES", PREMIERE 1 CLUBES FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69105.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premierefutebolclubes.png" group-title="ESPORTES", PREMIERE 1 CLUBES HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69106.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premierefutebolclubes.png" group-title="ESPORTES", PREMIERE 1 CLUBES SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69107.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premierefutebolclubes.png" group-title="ESPORTES", PREMIERE CLUBES 1 FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144705.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premierefutebolclubes.png" group-title="ESPORTES", PREMIERE CLUBES 1 HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144706.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premierefutebolclubes.png" group-title="ESPORTES", PREMIERE CLUBES² 1
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144704.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere2.png" group-title="ESPORTES", PREMIERE 2 FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69086.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere2.png" group-title="ESPORTES", PREMIERE 2 FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144688.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere2.png" group-title="ESPORTES", PREMIERE 2 HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69087.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere2.png" group-title="ESPORTES", PREMIERE 2 HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144689.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere2.png" group-title="ESPORTES", PREMIERE 2 SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69088.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere3.png" group-title="ESPORTES", PREMIERE 3 FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69089.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere3.png" group-title="ESPORTES", PREMIERE 3 FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144691.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere3.png" group-title="ESPORTES", PREMIERE 3 HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69090.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere3.png" group-title="ESPORTES", PREMIERE 3 HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144692.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere3.png" group-title="ESPORTES", PREMIERE 3 SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69091.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere3.png" group-title="ESPORTES", PREMIERE 3²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144690.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere4.png" group-title="ESPORTES", PREMIERE 4 FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69092.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere4.png" group-title="ESPORTES", PREMIERE 4 FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144694.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere4.png" group-title="ESPORTES", PREMIERE 4 HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69093.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere4.png" group-title="ESPORTES", PREMIERE 4 HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144695.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere4.png" group-title="ESPORTES", PREMIERE 4 SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69094.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere4.png" group-title="ESPORTES", PREMIERE 4²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144693.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere5.png" group-title="ESPORTES", PREMIERE 5 FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69095.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere5.png" group-title="ESPORTES", PREMIERE 5 FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144697.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere5.png" group-title="ESPORTES", PREMIERE 5 HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69096.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere5.png" group-title="ESPORTES", PREMIERE 5 HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144698.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere5.png" group-title="ESPORTES", PREMIERE 5 SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69097.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere6.png" group-title="ESPORTES", PREMIERE 6 FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69098.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere6.png" group-title="ESPORTES", PREMIERE 6 FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144699.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere6.png" group-title="ESPORTES", PREMIERE 6 HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69099.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere6.png" group-title="ESPORTES", PREMIERE 6 HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144700.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere6.png" group-title="ESPORTES", PREMIERE 6 SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69100.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere7.png" group-title="ESPORTES", PREMIERE 7 FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69101.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere7.png" group-title="ESPORTES", PREMIERE 7 FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144701.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere7.png" group-title="ESPORTES", PREMIERE 7 HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69102.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere7.png" group-title="ESPORTES", PREMIERE 7 HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144702.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere7.png" group-title="ESPORTES", PREMIERE 7 SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69103.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/premiere8.png" group-title="ESPORTES", PREMIERE 8²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144703.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/primeboxbrazil.png" group-title="VARIEDADES", PRIME BOX BRASIL FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69212.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/primeboxbrazil.png" group-title="VARIEDADES", PRIME BOX BRASIL HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69213.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/primeboxbrazil.png" group-title="VARIEDADES", PRIME BOX BRASIL SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69214.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/primeboxbrazil.png" group-title="VARIEDADES", PRIMEBOX BRAZIL HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144707.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/record.png" group-title="ABERTOS", RECORD  FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68743.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/record.png" group-title="ABERTOS", RECORD  HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68744.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/rnrecordnew.png" group-title="NOTÍCIAS", RECORD NEWS FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69083.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/rnrecordnew.png" group-title="NOTÍCIAS", RECORD NEWS HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69084.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/record.png" group-title="NOTÍCIAS", RECORD NEWS HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144715.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/rnrecordnew.png" group-title="NOTÍCIAS", RECORD NEWS SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69085.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/record.png" group-title="NOTÍCIAS", RECORD NEWS²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144714.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/record.png" group-title="ABERTOS", RECORD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144709.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", REDBULL TV HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144763.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/redetv.png" group-title="ABERTOS", REDE TV FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69220.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/redetv.png" group-title="ABERTOS", REDE TV HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69221.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/redetv.png" group-title="ABERTOS", REDE TV HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144766.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/redetv.png" group-title="ABERTOS", REDE TV SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68762.ts
-
-#EXTINF:-1 tvg-logo="https://dns.ulttv.xyz/i/redevida.png" group-title="ABERTOS", REDE VIDA²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144765.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/retromusictelevision.png" group-title="VARIEDADES", RETRO MUSIC SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/75119.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOTÍCIAS", RTP 1 HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144768.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOTÍCIAS", RTP 2 HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144769.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/rtp3.png" group-title="NOTÍCIAS", RTP 3 HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144770.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOTÍCIAS", RTP AFRICA HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144771.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOTÍCIAS", RTP AÇORES HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144772.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMENTO", SABOR & ARTE HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144775.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sbt.png" group-title="ABERTOS", SBT FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68765.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sbt.png" group-title="ABERTOS", SBT HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68766.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sbt.png" group-title="ABERTOS", SBT SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69335.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sbt.png" group-title="ABERTOS", SBT SP FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144781.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sbt.png" group-title="ABERTOS", SBT SP HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144782.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sbt.png" group-title="ABERTOS", SBT TV SERRA DOURADA
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/75226.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sbt.png" group-title="ABERTOS", SBT-MG-TV ALTEROSA FHD H265³
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/105159.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sbt.png" group-title="ABERTOS", SBT²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144776.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/shotime.png" group-title="VARIEDADES", SHOPTIME FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69336.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sicinternacional.png" group-title="NOTÍCIAS", SIC INTENACIONAL²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144783.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/smithsonianchannel.png" group-title="DOCUMENTARIOS", SMITHSONIAN CHANNEL HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144784.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/canalsony.png" group-title="FILMES & SÉRIES", SONY FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68870.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/canalsony.png" group-title="FILMES & SÉRIES", SONY HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68871.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/canalsony.png" group-title="FILMES & SÉRIES", SONY HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144741.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/canalsony.png" group-title="FILMES & SÉRIES", SONY SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68872.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/canalsony.png" group-title="FILMES & SÉRIES", SONY²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144740.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/space.png" group-title="FILMES & SÉRIES", SPACE FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68873.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/space.png" group-title="FILMES & SÉRIES", SPACE FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144786.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/space.png" group-title="FILMES & SÉRIES", SPACE HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68874.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/space.png" group-title="FILMES & SÉRIES", SPACE HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144787.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/space.png" group-title="FILMES & SÉRIES", SPACE SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68875.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/space.png" group-title="FILMES & SÉRIES", SPACE²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144785.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sportv1.png" group-title="ESPORTES", SPORTV 1 FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69144.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sportv1.png" group-title="ESPORTES", SPORTV 1 HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69145.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sportv1.png" group-title="ESPORTES", SPORTV 1 SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69146.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sportv1.png" group-title="ESPORTES", SPORTV FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144794.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sportv1.png" group-title="ESPORTES", SPORTV HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144795.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sportv1.png" group-title="ESPORTES", SPORTV²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144788.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sportv2.png" group-title="ESPORTES", SPORTV 2 FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69138.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sportv2.png" group-title="ESPORTES", SPORTV 2 FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144790.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sportv2.png" group-title="ESPORTES", SPORTV 2 HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69139.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sportv2.png" group-title="ESPORTES", SPORTV 2 HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144791.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sportv2.png" group-title="ESPORTES", SPORTV 2²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144789.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sportv3.png" group-title="ESPORTES", SPORTV 3 FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69141.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sportv3.png" group-title="ESPORTES", SPORTV 3 HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69142.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sportv3.png" group-title="ESPORTES", SPORTV 3 HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144793.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sportv3.png" group-title="ESPORTES", SPORTV 3 SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69143.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/sportv3.png" group-title="ESPORTES", SPORTV 3²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144792.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/star.png" group-title="FILMES & SÉRIES", STAR CHANNEL FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144797.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/star.png" group-title="FILMES & SÉRIES", STAR CHANNEL HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68845.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/star.png" group-title="FILMES & SÉRIES", STAR CHANNEL HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144798.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/star.png" group-title="FILMES & SÉRIES", STAR CHANNEL SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68853.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/star.png" group-title="FILMES & SÉRIES", STAR CHANNEL²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144796.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/starhits.png" group-title="FILMES & SÉRIES", CINECANAL HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68850.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/starhits.png" group-title="FILMES & SÉRIES", CINECANAL SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69331.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/starlife.png" group-title="FILMES & SÉRIES", STAR LIFE FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69327.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/starlife.png" group-title="FILMES & SÉRIES", STAR LIFE FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144800.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/starlife.png" group-title="FILMES & SÉRIES", STAR LIFE HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68847.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/starlife.png" group-title="FILMES & SÉRIES", STAR LIFE HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144801.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/starlife.png" group-title="FILMES & SÉRIES", STAR LIFE SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68848.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/starlife.png" group-title="FILMES & SÉRIES", STAR LIFE²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144799.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/studiouniversal.png" group-title="FILMES & SÉRIES", STUDIO UNIVERSAL FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68876.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/studiouniversal.png" group-title="FILMES & SÉRIES", STUDIO UNIVERSAL HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68877.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/studiouniversal.png" group-title="FILMES & SÉRIES", STUDIO UNIVERSAL HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144804.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/studiouniversal.png" group-title="FILMES & SÉRIES", STUDIO UNIVERSAL SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68878.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/syfy.png" group-title="FILMES & SÉRIES", SYFY FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68879.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/syfy.png" group-title="FILMES & SÉRIES", SYFY HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68880.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/syfy.png" group-title="FILMES & SÉRIES", SYFY HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144806.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/syfy.png" group-title="FILMES & SÉRIES", SYFY SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68881.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/syfy.png" group-title="FILMES & SÉRIES", SYFY²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144805.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tbs.png" group-title="ENTRETENIMENTO", TBS FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68882.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tbs.png" group-title="ENTRETENIMENTO", TBS FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144808.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tbs.png" group-title="ENTRETENIMENTO", TBS HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68883.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tbs.png" group-title="ENTRETENIMENTO", TBS HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144809.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tbs.png" group-title="ENTRETENIMENTO", TBS SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68884.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tbs.png" group-title="ENTRETENIMENTO", TBS²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144807.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcaction.png" group-title="FILMES & SÉRIES", TC ACTION FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68709.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcaction.png" group-title="FILMES & SÉRIES", TC ACTION FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144812.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcaction.png" group-title="FILMES & SÉRIES", TC ACTION HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68710.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcaction.png" group-title="FILMES & SÉRIES", TC ACTION HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144813.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcaction.png" group-title="FILMES & SÉRIES", TC ACTION SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68711.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcaction.png" group-title="FILMES & SÉRIES", TC ACTION²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144811.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/telecinecult.png" group-title="FILMES & SÉRIES", TC CULT FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68712.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/telecinecult.png" group-title="FILMES & SÉRIES", TC CULT FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144815.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/telecinecult.png" group-title="FILMES & SÉRIES", TC CULT HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68713.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/telecinecult.png" group-title="FILMES & SÉRIES", TC CULT HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144816.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/telecinecult.png" group-title="FILMES & SÉRIES", TC CULT SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68714.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/telecinecult.png" group-title="FILMES & SÉRIES", TC CULT²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144814.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcfun.png" group-title="FILMES & SÉRIES", TC FUN FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68715.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcfun.png" group-title="FILMES & SÉRIES", TC FUN FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144818.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcfun.png" group-title="FILMES & SÉRIES", TC FUN HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68716.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcfun.png" group-title="FILMES & SÉRIES", TC FUN HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144819.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcfun.png" group-title="FILMES & SÉRIES", TC FUN SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68717.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcfun.png" group-title="FILMES & SÉRIES", TC FUN²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144817.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcpipoca.png" group-title="FILMES & SÉRIES", TC PIPOCA FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68718.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcpipoca.png" group-title="FILMES & SÉRIES", TC PIPOCA FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144821.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcpipoca.png" group-title="FILMES & SÉRIES", TC PIPOCA HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68719.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcpipoca.png" group-title="FILMES & SÉRIES", TC PIPOCA HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144822.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcpipoca.png" group-title="FILMES & SÉRIES", TC PIPOCA SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68720.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcpipoca.png" group-title="FILMES & SÉRIES", TC PIPOCA²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144820.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcpremium.png" group-title="FILMES & SÉRIES", TC PREMIUM FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68721.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcpremium.png" group-title="FILMES & SÉRIES", TC PREMIUM FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144824.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcpremium.png" group-title="FILMES & SÉRIES", TC PREMIUM HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68722.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcpremium.png" group-title="FILMES & SÉRIES", TC PREMIUM HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144825.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcpremium.png" group-title="FILMES & SÉRIES", TC PREMIUM SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68723.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcpremium.png" group-title="FILMES & SÉRIES", TC PREMIUM²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144823.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tctouch.png" group-title="FILMES & SÉRIES", TC TOUCH FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68724.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tctouch.png" group-title="FILMES & SÉRIES", TC TOUCH FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144827.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tctouch.png" group-title="FILMES & SÉRIES", TC TOUCH HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68725.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tctouch.png" group-title="FILMES & SÉRIES", TC TOUCH HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144828.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tctouch.png" group-title="FILMES & SÉRIES", TC TOUCH SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68726.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tctouch.png" group-title="FILMES & SÉRIES", TC TOUCH²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144826.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcm.png" group-title="FILMES & SÉRIES", TCM FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68885.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcm.png" group-title="FILMES & SÉRIES", TCM HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68886.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcm.png" group-title="FILMES & SÉRIES", TCM SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68887.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tcm.png" group-title="FILMES & SÉRIES", TCM²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144810.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tlc.png" group-title="FILMES & SÉRIES", TLC FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68888.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tlc.png" group-title="DOCUMENTARIOS", TLC FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144830.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tlc.png" group-title="DOCUMENTARIOS", TLC HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68889.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tlc.png" group-title="DOCUMENTARIOS", TLC HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144831.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tlc.png" group-title="FILMES & SÉRIES", TLC SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68890.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tlc.png" group-title="DOCUMENTARIOS", TLC²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144829.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tnt.png" group-title="FILMES & SÉRIES", TNT FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68891.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tntseries.png" group-title="FILMES & SÉRIES", TNT FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144833.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tnt.png" group-title="FILMES & SÉRIES", TNT HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68892.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tntseries.png" group-title="FILMES & SÉRIES", TNT HD ALT²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144835.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tntseries.png" group-title="FILMES & SÉRIES", TNT HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144834.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tnt.png" group-title="FILMES & SÉRIES", TNT SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68897.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tntseries.png" group-title="FILMES & SÉRIES", TNT SERIES FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68894.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tntseries.png" group-title="FILMES & SÉRIES", TNT SERIES HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68895.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tntseries.png" group-title="FILMES & SÉRIES", TNT SERIES SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68896.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tntseries.png" group-title="FILMES & SÉRIES", TNT SÉRIES HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144837.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tntseries.png" group-title="FILMES & SÉRIES", TNT SÉRIES²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144836.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tntseries.png" group-title="FILMES & SÉRIES", TNT²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144832.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tooncast.png" group-title="INFANTIS", TOONCAST FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69066.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tooncast.png" group-title="INFANTIS", TOONCAST HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69067.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tooncast.png" group-title="INFANTIS", TOONCAST HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144839.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tooncast.png" group-title="INFANTIS", TOONCAST SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69068.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tooncast.png" group-title="INFANTIS", TOONCAST²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144838.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/travelboxbrazil.png" group-title="ENTRETENIMENTO", TRAVEL BOX FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/106519.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/travelboxbrazil.png" group-title="ENTRETENIMENTO", TRAVEL BOX HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144840.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/trutv.png" group-title="DOCUMENTARIOS", TRU TV FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68831.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/trutv.png" group-title="DOCUMENTARIOS", TRU TV HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68832.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/trutv.png" group-title="DOCUMENTARIOS", TRU TV SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69337.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/trutv.png" group-title="DOCUMENTARIOS", TRUTV HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144841.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/trutv.png" group-title="DOCUMENTARIOS", TRUTV²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144842.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tvbrasil.png" group-title="ABERTOS", TV BRASIL HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/84811.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tvbrazil.png" group-title="ABERTOS", TV BRASIL HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144844.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/cultura.png" group-title="ABERTOS", TV CULTURA HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144846.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tvratimbum.png" group-title="INFANTIS", TV RA TIM BUM FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68783.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tvratimbum.png" group-title="INFANTIS", TV RA TIM BUM HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68784.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tvratimbum.png" group-title="INFANTIS", TV RA TIM BUM SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68785.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/tvratimbum.png" group-title="INFANTIS", TV RÁ-TIM-BUM²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144856.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/universalchannel.png" group-title="FILMES & SÉRIES", UNIVERSAL CHANNEL FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68898.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/universalchannel.png" group-title="FILMES & SÉRIES", UNIVERSAL CHANNEL HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68899.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/universalchannel.png" group-title="FILMES & SÉRIES", UNIVERSAL CHANNEL SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68900.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/universalchannel.png" group-title="FILMES & SÉRIES", UNIVERSAL TV HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144863.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/universalchannel.png" group-title="FILMES & SÉRIES", UNIVERSAL TV²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144862.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/h1megahhits.png" group-title="ENTRETENIMENTO", VH1 MEGA HITS FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69227.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/h1megahhits.png" group-title="ENTRETENIMENTO", VH1 MEGA HITS HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69228.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/h1megahhits.png" group-title="ENTRETENIMENTO", VH1 MEGA HITS SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69229.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/viva.png" group-title="ENTRETENIMENTO", VIVA
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69232.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/viva.png" group-title="ENTRETENIMENTO", VIVA FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69230.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/viva.png" group-title="ENTRETENIMENTO", VIVA FHD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144865.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/viva.png" group-title="ENTRETENIMENTO", VIVA HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69231.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/viva.png" group-title="ENTRETENIMENTO", VIVA HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144866.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/viva.png" group-title="ENTRETENIMENTO", VIVA²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144864.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/wbtv.png" group-title="FILMES & SÉRIES", WARNER CHANNEL FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68901.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/wbtv.png" group-title="FILMES & SÉRIES", WARNER CHANNEL HD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68902.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/wbtv.png" group-title="FILMES & SÉRIES", WARNER CHANNEL HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144868.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/wbtv.png" group-title="FILMES & SÉRIES", WARNER CHANNEL SD
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/68903.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/wbtv.png" group-title="FILMES & SÉRIES", WARNER CHANNEL²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144867.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/woohoo.png" group-title="ESPORTES", WOHOO FHD H265
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/69338.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/woohoo.png" group-title="ESPORTES", WOOHOO HD²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144870.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/woohoo.png" group-title="ESPORTES", WOOHOO²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144869.ts
-
-#EXTINF:-1 tvg-logo="http://dns.ulttv.xyz/i/zoomoo.png" group-title="INFANTIS", ZOOMOO²
-http://dns.p2.wtf:80/live/key8vkgtac/ft5xfuc6bv/144871.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: A&E HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: A&E HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322378.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: AMC HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: AMC HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322379.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Animal Planet HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Animal Planet HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322380.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Arte 1 HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Arte 1 HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322381.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: AXN HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: AXN HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322382.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Band Campinas" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Band Campinas
+http://1tv1.net:8080/live/tarek80/fytuyi/322383.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Band SP HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Band SP HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322384.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Band News HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Band News HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322385.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Bis HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Bis HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322386.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Boomerang HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Boomerang HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322387.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Cartoon Network HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Cartoon Network HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322388.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Cinemax HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Cinemax HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322389.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Combate HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Combate HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322390.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Comedy Central HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Comedy Central HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322391.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Curta! HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Curta! HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322392.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Discovery Channel HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Discovery Channel HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322393.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: HGTV HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: HGTV HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322394.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Discovery Home & Health HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Discovery Home & Health HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322395.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Discovery Kids HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Discovery Kids HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322396.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Discovery Science HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Discovery Science HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322397.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Discovery Theater HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Discovery Theater HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322398.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Discovery Turbo HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Discovery Turbo HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322399.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Discovery World HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Discovery World HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322400.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Disney Channel HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Disney Channel HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322401.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Disney Junior HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Disney Junior HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322402.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Disney XD HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Disney XD HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322403.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: E! Entertainment HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: E! Entertainment HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322404.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: ESPN 2 HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: ESPN 2 HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322405.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: ESPN Brasil HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: ESPN Brasil HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322406.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: ESPN HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: ESPN HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322407.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Fish TV HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Fish TV HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322408.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Food Network HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Food Network HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322409.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Fox HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Fox HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322410.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Fox Sports 2 HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Fox Sports 2 HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322411.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Fox Sports HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Fox Sports HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322412.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Futura HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Futura HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322413.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: FX HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: FX HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322414.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Globo Anhanguera Goiania" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Globo Anhanguera Goiania
+http://1tv1.net:8080/live/tarek80/fytuyi/322415.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Globo Brasilia" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Globo Brasilia
+http://1tv1.net:8080/live/tarek80/fytuyi/322416.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Globo EPTV Campinas HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Globo EPTV Campinas HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322417.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Globo EPTV Sao Carlos SD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Globo EPTV Sao Carlos SD
+http://1tv1.net:8080/live/tarek80/fytuyi/322418.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Globo Minas HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Globo Minas HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322419.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Globo News HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Globo News HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322420.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Globo Nordeste HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Globo Nordeste HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322421.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Globo Ribeirao Preto" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Globo Ribeirao Preto
+http://1tv1.net:8080/live/tarek80/fytuyi/322422.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Globo RJ HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Globo RJ HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322423.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Globo RPC TV SD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Globo RPC TV SD
+http://1tv1.net:8080/live/tarek80/fytuyi/322424.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Globo SP HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Globo SP HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322425.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Globo TV Tem Sorocaba" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Globo TV Tem Sorocaba
+http://1tv1.net:8080/live/tarek80/fytuyi/322426.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Globo TV Tribuna Santos" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Globo TV Tribuna Santos
+http://1tv1.net:8080/live/tarek80/fytuyi/322427.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Gloob HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Gloob HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322428.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: GNT HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: GNT HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322429.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: H2 HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: H2 HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322430.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: HBO 2 HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: HBO 2 HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322431.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: HBO Family HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: HBO Family HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322432.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: HBO HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: HBO HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322433.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: HBO Plus HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: HBO Plus HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322434.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: HBO Signature HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: HBO Signature HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322435.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: HBO Mundi HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: HBO Mundi HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322436.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: HBO Extreme HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: HBO Extreme HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322437.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Mega Pix HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Mega Pix HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322438.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: MTV HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: MTV HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322439.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Multishow HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Multishow HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322440.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Music Box Brazil" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Music Box Brazil
+http://1tv1.net:8080/live/tarek80/fytuyi/322441.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Nat Geo Kids HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Nat Geo Kids HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322442.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Nat Geo HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Nat Geo HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322443.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Nick Jr. HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Nick Jr. HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322444.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Nickelodeon HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Nickelodeon HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322445.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Novo Tempo" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Novo Tempo
+http://1tv1.net:8080/live/tarek80/fytuyi/322446.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Paramount Network HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Paramount Network HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322447.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Premiere 1" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Premiere 1
+http://1tv1.net:8080/live/tarek80/fytuyi/322448.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Premiere 2 HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Premiere 2 HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322449.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Premiere 3 HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Premiere 3 HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322450.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Premiere 4 HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Premiere 4 HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322451.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Premiere 6 HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Premiere 6 HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322452.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Record News HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Record News HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322453.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Record Nordeste HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Record Nordeste HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322454.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Record SP HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Record SP HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322455.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Rede TV HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Rede TV HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322456.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Sony HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Sony HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322457.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Space HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Space HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322458.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: SporTV 2 HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: SporTV 2 HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322459.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: SporTV 3 HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: SporTV 3 HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322460.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: SporTV HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: SporTV HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322461.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Studio Universal HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Studio Universal HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322462.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: SyFy HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: SyFy HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322463.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: TBS" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: TBS
+http://1tv1.net:8080/live/tarek80/fytuyi/322464.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Telecine Action HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Telecine Action HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322465.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Telecine Cult HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Telecine Cult HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322466.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: TNT HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: TNT HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322467.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: TNT Series HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: TNT Series HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322468.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Tooncast HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Tooncast HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322469.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: TV Aparecida SD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: TV Aparecida SD
+http://1tv1.net:8080/live/tarek80/fytuyi/322470.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Universal Channel HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Universal Channel HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322471.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: VH1 HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: VH1 HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322472.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Viva HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Viva HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322473.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Warner Channel HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Warner Channel HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322474.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Woohoo HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Woohoo HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322475.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Zoomoo HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Zoomoo HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322476.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Globo RPC Curitiba HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Globo RPC Curitiba HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322477.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: SBT Brasilia HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: SBT Brasilia HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322478.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: SBT SP" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: SBT SP
+http://1tv1.net:8080/live/tarek80/fytuyi/322479.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Globo INTER TV Cabugi RN SD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Globo INTER TV Cabugi RN SD
+http://1tv1.net:8080/live/tarek80/fytuyi/322480.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: SBT RJ HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: SBT RJ HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322481.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: History HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: History HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322482.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Investigation Discovery ID HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Investigation Discovery ID HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322483.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: ESPN Extra HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: ESPN Extra HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322484.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: TV Ra Tim Bum HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: TV Ra Tim Bum HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322485.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Band Sports HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Band Sports HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322486.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Discovery TLC" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Discovery TLC
+http://1tv1.net:8080/live/tarek80/fytuyi/322487.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Fox Life HD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Fox Life HD
+http://1tv1.net:8080/live/tarek80/fytuyi/322488.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: REDE BRASIL" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: REDE BRASIL
+http://1tv1.net:8080/live/tarek80/fytuyi/322489.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Lifetime FHD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Lifetime FHD
+http://1tv1.net:8080/live/tarek80/fytuyi/322490.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Baby TV" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Baby TV
+http://1tv1.net:8080/live/tarek80/fytuyi/322491.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: BAND" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: BAND
+http://1tv1.net:8080/live/tarek80/fytuyi/322492.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Canal Sony" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Canal Sony
+http://1tv1.net:8080/live/tarek80/fytuyi/322493.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: RPC TV CURITIBA" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: RPC TV CURITIBA
+http://1tv1.net:8080/live/tarek80/fytuyi/322494.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: TCM" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: TCM
+http://1tv1.net:8080/live/tarek80/fytuyi/322495.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: TV BRASIL" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: TV BRASIL
+http://1tv1.net:8080/live/tarek80/fytuyi/322496.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: RBS TV PORTO ALEGRE" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: RBS TV PORTO ALEGRE
+http://1tv1.net:8080/live/tarek80/fytuyi/322497.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Br: Tru TV SD" tvg-logo="http://163.172.39.182:80/logo/latino/Brazil-icon.png" group-title="BRAZIL",Br: Tru TV SD
+http://1tv1.net:8080/live/tarek80/fytuyi/322498.ts
